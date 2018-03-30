@@ -5,6 +5,8 @@
 #include <algorithm>
 #include <iterator>
 
+// un magnifique fichier source
+
 using namespace std;
 
 // Foncteur qui effectue un chiffrement par decalage
